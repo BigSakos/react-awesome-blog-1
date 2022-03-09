@@ -1,6 +1,7 @@
 You can also view this app on https://react-awesome-blog-1.herokuapp.com/
-Thanks for visiting my page! 
 
+
+Thanks for visiting my page! 
 
 # Getting Started with Create React App
 
