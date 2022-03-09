@@ -1,4 +1,5 @@
-You can also view this app on https://react-awesome-blog-1.herokuapp.com/
+# You can also view this app on:
+https://react-awesome-blog-1.herokuapp.com/
 
 
 Thanks for visiting my page! 
